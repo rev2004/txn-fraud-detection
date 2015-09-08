@@ -1,0 +1,1 @@
+Transactions fraud detection: To load transactions into the system, process for fraud detection based on some senarios and raise alerts to customers via text messaging to find out if the transaction is fraudulent or not.
